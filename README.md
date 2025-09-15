@@ -9,7 +9,8 @@
 *  **E-mail**：stanly650311@gmail.com
 *  **Major**：Undergraduate Program in Intelligent Computing and Big Data
 *  **EX-major**：Interior Design
+  
+  ![台南又又美](https://github.com/user-attachments/assets/66d15ed8-daed-450f-abfe-12522b801149)
 
 
-![教授你好我叫陳道韞](https://cdn.shopify.com/s/files/1/0513/6636/3293/files/TastyKurimanju_480x480.webp?v=1726085357)
 
