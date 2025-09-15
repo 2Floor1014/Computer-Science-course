@@ -1,5 +1,4 @@
 # _Computer Science course-self introduction_
-*****
 ## ***Personal Data***
 * **Name**：陳道韞  \(_Chen Dao Yun_)
 * **Date of birth**：2004/10/14
