@@ -16,8 +16,14 @@
 * **TOEIC**：725
 * **GEPT**：Intermediate
 * **TOFEL JUNIOR**：805
+<img width="386" height="551" alt="多益成績單" src="https://github.com/user-attachments/assets/90b8f98b-7490-4345-b2de-32f338a72e6f" />
+
 ### ***software Ability***
-
-
-
-
+>from most skilled to least skilled
+1. **Sketch up**
+2. **Autocad**
+3. **Enscape**
+4. **Adobe illustrator**
+5. **Microsoft word**
+*******
+   
