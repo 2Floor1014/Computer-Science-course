@@ -9,7 +9,7 @@
 * **Characteristic**：Outgoing, Creative, Determined.
 * **EX-major**：Interior Design
 *  **Major**：Undergraduate Program in Intelligent Computing and Big Data
-  ![台南又又美](https://github.com/user-attachments/assets/66d15ed8-daed-450f-abfe-12522b801149)
+
 *****
 ## ***Skills***
 ### ***English Ability***
